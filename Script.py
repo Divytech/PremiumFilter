@@ -7,6 +7,16 @@ Here You Can Request Movie's, Just Sent Movie OR WebSeries Name With Proper <a h
 
     HELP_TXT = """<b>Hᴇʏ {} Fʀɪᴇɴᴅ Hᴇʀᴇ Yᴏᴜʀ Bᴜᴛᴛᴏɴs 👇</b>"""
 
+    FCAPTION = """
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+
+<b>
+╭──────── • ◆ • ────────╮
+😎 Oᴡɴᴇʀ :  <a href="https://t.me/devbots2">DᴇᴠBᴏᴛs</a>
+🎥 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ :  <a href="https://t.me/iPopkornBot_ipop_bot">IᴘᴀᴘKᴏʀɴ</a>
+😒 Sᴜᴘᴘᴏʀᴛ :  <a href="https://t.me/champaklalbot">Aᴅᴍɪɴ</a>
+╰──────── • ◆ • ────────╯</b>"""
+
     PRIVATEBOT_TXT = """<b>Tʜᴀɴᴋs Fᴏʀ Aᴅᴅɪɴɢ Mᴇ
 
 - ›› Mᴜsᴛ Aᴅᴅ Mᴇ Aᴅᴍɪɴ Tᴏ Wᴏʀᴋ Oɴ Tʜɪs Gʀᴏᴜᴘ
