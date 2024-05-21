@@ -46,7 +46,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('💥MAIN UPDATE CHANNEL💥', url='https://t.me/iPopkornBot_ipop_bot')
             ],[
-            InlineKeyboardButton('😅SHARE OUR BOT😊', url=f"https://t.me/{temp.U_NAME}?startgroup=true")
+            InlineKeyboardButton('😅SHARE OUR BOT😊', url=f"https://t.me/share/url?url=t.me/{temp.U_NAME}")
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -90,7 +90,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('💥MAIN UPDATE CHANNEL💥', url='https://t.me/iPopkornBot_ipop_bot')
             ],[
-            InlineKeyboardButton('😅SHARE OUR BOT😊', url=f"https://t.me/{temp.U_NAME}?startgroup=true")
+            InlineKeyboardButton('😅SHARE OUR BOT😊', url=f"https://t.me/share/url?url=t.me/{temp.U_NAME}")
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
