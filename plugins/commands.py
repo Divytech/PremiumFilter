@@ -280,8 +280,8 @@ async def send_msg(bot, message):
             async for usr in users:
                 out += f"{usr['id']}"
                 out += '\n'
-            if str(user.id) in str(out):
-                await message.reply_to_message.copy(int(user.id))
+            if str(chat.id) in str(out):
+                await message.reply_to_message.copy(int(chat.id))
                 success = True
             else:
                 success = False
